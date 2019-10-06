@@ -9,7 +9,7 @@ require_relative '../reverse_each_word.rb'
 # light-weight as possible. Requiring heavyweight dependencies from this file
 # will add to the boot time of your test suite on EVERY test run, even for an
 # individual file that may not need all of that loaded. Instead, make a
-# separate helper file that requires this one and then use it only in the specs
+# separate helper file that requires this one and then use it only in the specswe
 # that actually need it.
 #
 # The `.rspec` file also contains a few flags that are not defaults but that
